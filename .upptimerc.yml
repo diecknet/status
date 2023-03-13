@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: diecknet.de
     url: https://diecknet.de
+  - name: simpleip.de
+    url: https://simpleip.de
 
 
 status-website:
@@ -14,8 +16,8 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "diecknet status page"
-  introMessage: This is a status page for diecknet. It uses [upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "diecknet Status Page"
+
   navbar:
     - title: Status
       href: /
