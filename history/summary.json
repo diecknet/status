@@ -16,5 +16,23 @@
     "timeMonth": 215,
     "timeYear": 215,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "simpleip.de",
+    "url": "https://simpleip.de",
+    "icon": "https://icons.duckduckgo.com/ip3/simpleip.de.ico",
+    "slug": "simpleip-de",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 367,
+    "timeDay": 367,
+    "timeWeek": 367,
+    "timeMonth": 367,
+    "timeYear": 367,
+    "dailyMinutesDown": {}
   }
 ]
