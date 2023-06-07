@@ -22,18 +22,20 @@
     "url": "https://simpleip.de",
     "icon": "https://icons.duckduckgo.com/ip3/simpleip.de.ico",
     "slug": "simpleip-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 290,
-    "timeWeek": 280,
-    "timeMonth": 281,
-    "timeYear": 291,
-    "dailyMinutesDown": {}
+    "time": 290,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 280,
+    "timeYear": 290,
+    "dailyMinutesDown": {
+      "2023-06-07": 0
+    }
   },
   {
     "name": "Giscus Comment System on Vercel",
