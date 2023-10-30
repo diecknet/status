@@ -4,19 +4,19 @@
     "url": "https://diecknet.de",
     "icon": "https://icons.duckduckgo.com/ip3/diecknet.de.ico",
     "slug": "diecknet-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 263,
-    "timeWeek": 256,
-    "timeMonth": 242,
+    "timeDay": 251,
+    "timeWeek": 252,
+    "timeMonth": 241,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://simpleip.de",
     "icon": "https://icons.duckduckgo.com/ip3/simpleip.de.ico",
     "slug": "simpleip-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 276,
-    "timeWeek": 306,
-    "timeMonth": 304,
-    "timeYear": 279,
+    "time": 278,
+    "timeDay": 265,
+    "timeWeek": 300,
+    "timeMonth": 303,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 13
     }
   },
   {
