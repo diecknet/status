@@ -4,36 +4,40 @@
     "url": "https://diecknet.de",
     "icon": "https://icons.duckduckgo.com/ip3/diecknet.de.ico",
     "slug": "diecknet-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 248,
-    "timeWeek": 252,
-    "timeMonth": 240,
+    "timeDay": 263,
+    "timeWeek": 256,
+    "timeMonth": 242,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "simpleip.de",
     "url": "https://simpleip.de",
     "icon": "https://icons.duckduckgo.com/ip3/simpleip.de.ico",
     "slug": "simpleip-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 279,
-    "timeDay": 312,
-    "timeWeek": 316,
-    "timeMonth": 307,
+    "timeDay": 276,
+    "timeWeek": 306,
+    "timeMonth": 304,
     "timeYear": 279,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Giscus Comment System on Vercel",
