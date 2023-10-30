@@ -1,7 +1,7 @@
 url: https://simpleip.de
-status: up
-code: 200
-responseTime: 312
-lastUpdated: 2023-10-29T23:00:46.951Z
+status: down
+code: 500
+responseTime: 239
+lastUpdated: 2023-10-30T20:07:47.447Z
 startTime: 2023-03-13T19:59:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
