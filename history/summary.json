@@ -6,18 +6,16 @@
     "slug": "diecknet-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 251,
-    "timeWeek": 252,
-    "timeMonth": 241,
+    "timeDay": 240,
+    "timeWeek": 254,
+    "timeMonth": 240,
     "timeYear": 216,
-    "dailyMinutesDown": {
-      "2023-10-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "simpleip.de",
@@ -26,18 +24,16 @@
     "slug": "simpleip-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 278,
-    "timeDay": 265,
-    "timeWeek": 300,
-    "timeMonth": 303,
+    "timeDay": 256,
+    "timeWeek": 303,
+    "timeMonth": 302,
     "timeYear": 278,
-    "dailyMinutesDown": {
-      "2023-10-30": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Giscus Comment System on Vercel",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 591,
-    "timeWeek": 319,
-    "timeMonth": 241,
-    "timeYear": 227,
+    "time": 229,
+    "timeDay": 677,
+    "timeWeek": 389,
+    "timeMonth": 255,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   }
 ]
