@@ -4,10 +4,10 @@
     "url": "https://diecknet.de",
     "icon": "https://icons.duckduckgo.com/ip3/diecknet.de.ico",
     "slug": "diecknet-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
@@ -15,7 +15,9 @@
     "timeWeek": 219,
     "timeMonth": 222,
     "timeYear": 220,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-04": 1
+    }
   },
   {
     "name": "simpleip.de",
