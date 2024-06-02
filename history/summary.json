@@ -40,9 +40,9 @@
     "url": "https://giscus.diecknet.de",
     "icon": "https://icons.duckduckgo.com/ip3/giscus.diecknet.de.ico",
     "slug": "giscus-comment-system-on-vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,6 +51,8 @@
     "timeWeek": 155,
     "timeMonth": 183,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-02": 0
+    }
   }
 ]
