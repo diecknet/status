@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 226,
-    "timeDay": 199,
-    "timeWeek": 245,
-    "timeMonth": 234,
+    "timeDay": 249,
+    "timeWeek": 244,
+    "timeMonth": 230,
     "timeYear": 231,
     "dailyMinutesDown": {}
   },
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 435,
-    "timeWeek": 324,
+    "timeDay": 273,
+    "timeWeek": 305,
     "timeMonth": 288,
     "timeYear": 296,
     "dailyMinutesDown": {}
@@ -42,17 +42,15 @@
     "slug": "giscus-comment-system-on-vercel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 225,
-    "timeWeek": 222,
+    "timeDay": 185,
+    "timeWeek": 220,
     "timeMonth": 200,
     "timeYear": 210,
-    "dailyMinutesDown": {
-      "2024-10-22": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
