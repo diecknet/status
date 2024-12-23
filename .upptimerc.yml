@@ -7,9 +7,6 @@ sites:
     url: https://diecknet.de
   - name: simpleip.de
     url: https://simpleip.de
-  - name: Giscus Comment System on Vercel
-    url: https://giscus.diecknet.de
-
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
