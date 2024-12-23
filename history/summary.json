@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 265,
-    "timeWeek": 228,
-    "timeMonth": 246,
+    "timeDay": 258,
+    "timeWeek": 231,
+    "timeMonth": 247,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -29,30 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 293,
-    "timeDay": 229,
-    "timeWeek": 256,
-    "timeMonth": 273,
+    "timeDay": 296,
+    "timeWeek": 270,
+    "timeMonth": 276,
     "timeYear": 294,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Giscus Comment System on Vercel",
-    "url": "https://giscus.diecknet.de",
-    "icon": "https://icons.duckduckgo.com/ip3/giscus.diecknet.de.ico",
-    "slug": "giscus-comment-system-on-vercel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 215,
-    "timeDay": 201,
-    "timeWeek": 191,
-    "timeMonth": 197,
-    "timeYear": 211,
-    "dailyMinutesDown": {
-      "2024-12-23": 0
-    }
   }
 ]
