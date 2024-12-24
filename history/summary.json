@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/diecknet.de.ico",
     "slug": "diecknet-de",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "66.11%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "98.89%",
+    "uptimeYear": "99.91%",
     "time": 232,
-    "timeDay": 258,
-    "timeWeek": 231,
-    "timeMonth": 247,
+    "timeDay": 251,
+    "timeWeek": 232,
+    "timeMonth": 251,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-12-23": 0
+      "2024-12-24": 15,
+      "2024-12-23": 473
     }
   },
   {
@@ -32,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 293,
     "timeDay": 296,
-    "timeWeek": 270,
+    "timeWeek": 263,
     "timeMonth": 276,
     "timeYear": 294,
     "dailyMinutesDown": {}
