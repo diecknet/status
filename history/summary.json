@@ -6,17 +6,16 @@
     "slug": "diecknet-de",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
-    "time": 802,
-    "timeDay": 4361,
-    "timeWeek": 11223,
-    "timeMonth": 6785,
-    "timeYear": 967,
+    "time": 822,
+    "timeDay": 5519,
+    "timeWeek": 10787,
+    "timeMonth": 6872,
+    "timeYear": 992,
     "dailyMinutesDown": {
-      "2025-01-30": 6,
       "2024-12-24": 1038,
       "2024-12-23": 473
     }
@@ -33,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
-    "timeDay": 266,
-    "timeWeek": 262,
-    "timeMonth": 254,
+    "timeDay": 189,
+    "timeWeek": 251,
+    "timeMonth": 253,
     "timeYear": 293,
     "dailyMinutesDown": {}
   }
